@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-01T22:18:22.528561",
+            "datePublished": "2026-10-18T12:33:36.432950",
             "hasPart": [
                 {
                     "@id": "dna-seq-classification-lstm.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/dna-seq-classification-lstm",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
